@@ -39,7 +39,7 @@ This portfolio reflects an interdisciplinary approach, with an emphasis on human
 ## Skills Highlight
 
 - Cognitive Science and Reasoning Research
-- Data Science Foundations (Python, SQL, TensorFlow)
+- Data Science Foundations (Python, MLM/DLM/NN, TensorFlow)
 - Deep Learning and Machine Learning Techniques
 - Scientific and Technical Communication
 - Research Design and Methodology
